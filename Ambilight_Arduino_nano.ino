@@ -105,4 +105,3 @@ waitLoop: while (!Serial.available()) check_connection();;
   }
   FastLED.show();  // write colors to the strip
 }
-```
